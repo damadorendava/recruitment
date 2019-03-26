@@ -1,0 +1,120 @@
+{
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"build" : 72643,
+"version" : 116,
+"fonts" : [
+"Roboto-Regular",
+"Roboto-Bold",
+"Roboto-Medium"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"appVersion" : "53.2",
+"build" : 72643,
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
+"pagesAndArtboards" : {
+"E85638D9-9F8C-4850-AF21-6879E9740C16" : {
+"name" : "Page 1",
+"artboards" : {
+"E808D703-3A28-4751-9F2E-9131884EC32E" : {
+"name" : "In bench "
+},
+"691227F3-820F-4561-ADBD-81EB14C6145D" : {
+"name" : "Home "
+},
+"48616D91-488D-4428-95BD-3AC7F300A93F" : {
+"name" : "DU Copy"
+},
+"EEBD080F-B752-4924-A0D8-928B4343D027" : {
+"name" : "DU"
+},
+"839EEBB4-91FF-4AAB-A018-A35C0E1D294C" : {
+"name" : "In bench  Copy"
+},
+"310235D9-50CE-4484-908F-F0A57646E6DC" : {
+"name" : "Position title"
+},
+"A9774847-B7B0-4338-8F91-7CBF300B8C61" : {
+"name" : "Grade Copy 6"
+},
+"90F59C76-5FEF-4EA2-B3C4-E86FDE2A2CE8" : {
+"name" : "Grade (1)"
+},
+"E97181BB-8901-482A-A2CF-AE50E4739362" : {
+"name" : "Grade"
+},
+"52190681-A175-4C54-B079-48EB573F2E5D" : {
+"name" : "Grade Copy 7"
+},
+"D2716E35-8F1D-4F75-8F99-811A76B6786B" : {
+"name" : "Grade Copy 8"
+}
+}
+},
+"5C7BB35F-E933-445D-9DF8-7587A56C20A9" : {
+"name" : "Symbols",
+"artboards" : {
+"88E5DCFF-89D6-4853-840C-E66EE0C4FD65" : {
+"name" : "Buttons"
+},
+"6379A453-743C-48C2-8BA9-F61BFA0C74EF" : {
+"name" : "Toogle"
+},
+"1B3CFD13-9F14-438A-B333-D0F2CB970E84" : {
+"name" : "Grade"
+},
+"6978C4F4-EB97-42B7-BF5C-C71C75405492" : {
+"name" : "tICKET buTTONS"
+},
+"E249125E-CAF4-4274-BE7B-C9F01AEB008F" : {
+"name" : "Name Text Field"
+},
+"8D67F465-1FE4-42D5-8ADD-1CD40E35F6F3" : {
+"name" : "Duplicate Ticket"
+},
+"B90E7D40-B51B-4822-85FD-4F29B54D80A4" : {
+"name" : "Name Text Field"
+},
+"4EA357C9-2F8E-41B0-92CC-D263A6B4600C" : {
+"name" : "Name Text Field"
+},
+"A742828E-54E9-48F7-91C5-1F5222A387D8" : {
+"name" : "Toogle on"
+},
+"D12FC285-B1DD-4E37-9A4A-DE930184DF93" : {
+"name" : "pRORITY"
+},
+"82D1C2E8-08D5-4D17-86BB-5AAB567CAA56" : {
+"name" : "Buttons"
+},
+"1F3F2DBB-7EEF-4F89-9A60-EDE23138ABD9" : {
+"name" : "Down Arrow"
+},
+"0E5B72C2-D3D6-4D41-9384-D46444B6558C" : {
+"name" : "Add ticket"
+},
+"C9A1CC34-8734-437A-83D6-97852BA9AFA2" : {
+"name" : "Text Fields"
+},
+"649F5666-A65D-400E-AC15-5FE5398E6843" : {
+"name" : "Button Save"
+},
+"955FEBC4-706E-4156-9EAF-7C362F6C810F" : {
+"name" : "Name Text Field"
+}
+}
+}
+}
+}
