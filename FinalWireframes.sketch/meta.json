@@ -1,0 +1,155 @@
+{
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"build" : 72643,
+"version" : 116,
+"fonts" : [
+"RobotoCondensed-Bold",
+"Roboto-Medium",
+"Roboto-Bold",
+"Roboto-Light",
+"Roboto-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"appVersion" : "53.2",
+"build" : 72643,
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
+"pagesAndArtboards" : {
+"A861BF9D-95DA-48C8-933D-70ED0673ED30" : {
+"name" : "Symbols",
+"artboards" : {
+"E47107DF-6F53-409E-BA3A-B973DD79FF3A" : {
+"name" : "icon\/24\/iconCandidates\/More"
+},
+"EA5C4665-8022-4001-8A6A-221A6ECC5E91" : {
+"name" : "Priority"
+},
+"B1955C44-296E-4A6F-A423-5C22DAE45667" : {
+"name" : "Toogle on"
+},
+"E69624F8-8E34-4801-AD34-4703CB1D3CC2" : {
+"name" : "icon\/24\/iconTrash\/Black"
+},
+"B5CDB796-96D6-4B2E-BE5B-AD43E8CFA165" : {
+"name" : "Down Arrow"
+},
+"F1E5C7B7-2FD2-4CA1-BB9E-746FA7B3F2D5" : {
+"name" : "Duplicate Ticket"
+},
+"001FA942-207D-44AF-9A71-E660C5B1D60A" : {
+"name" : "Name Text Field"
+},
+"4921C737-E1B6-4D4A-88F7-39ED161C1C40" : {
+"name" : "Grade"
+},
+"16EFF923-16F9-418C-B931-4155693F8A07" : {
+"name" : "Name Text Field"
+},
+"54D18546-EAF0-40E0-ADC2-EFB7E721FE3F" : {
+"name" : "Name Text Field"
+},
+"15D7E392-632C-42E1-878E-C111360BB1D8" : {
+"name" : "naME OF POSITION"
+},
+"E11E5334-7DF9-4F94-9F57-738BB329D84E" : {
+"name" : "icon\/24\/iconPencil\/Black"
+},
+"6E3D1C0B-9B5D-40C6-84DC-B87F918396C0" : {
+"name" : "Text Fields"
+},
+"E53BD080-4899-413F-BA79-67F1B6E29A96" : {
+"name" : "Tickets"
+},
+"7B0130D6-5F4C-44BC-8A84-51D73BBFDB4B" : {
+"name" : "icon\/24\/iconPosition\/unsure"
+},
+"49810D30-0F36-404F-8233-C744D12BE6F5" : {
+"name" : "Modules\/Ticket\/Default"
+},
+"6DEE3E9F-5FD9-4F75-99C4-770F89C79C5F" : {
+"name" : "aDD TICKET"
+},
+"AC6FFBE6-3D69-485C-8A88-4D5A290FCCAA" : {
+"name" : "Buttons"
+},
+"071F65B8-2AF5-4B28-AE1D-3309A85ACD9A" : {
+"name" : "Name Text Field"
+},
+"7FD4F578-F020-4FF4-AD3F-B36AAEEB5935" : {
+"name" : "Buttons"
+},
+"E5188220-3D4E-4E1B-BD36-814305D6EE71" : {
+"name" : "Name Text Field"
+},
+"E1B9D8AF-FE0D-4FE3-BCE7-D83D2FA745FA" : {
+"name" : "Name Text Field"
+},
+"9CAE7773-A326-4D7B-9B6A-715DB634698E" : {
+"name" : "Button Save"
+},
+"EA91CB47-9657-47A4-9D94-DBAEF46586E7" : {
+"name" : "Toogle"
+},
+"6F958D26-B783-4DE7-B139-C5A8143435F8" : {
+"name" : "Name Text Field"
+},
+"3BEA2569-7B02-420C-B54F-89CD2CAEADA9" : {
+"name" : "icon\/24\/iconCandidates\/One"
+},
+"7A617FC8-6280-492B-ACC2-82A744CF1FFA" : {
+"name" : "icon\/24\/iconPriority\/Priority A"
+},
+"C06B4A4C-B732-4018-A574-E45DBDEF9F40" : {
+"name" : "Name Text Field"
+},
+"C5935817-27B5-407D-8936-FB733225EC10" : {
+"name" : "icon\/24\/iconPosition\/Hired"
+},
+"4271661A-3198-4EF4-A18A-BA32EBC57D4A" : {
+"name" : "tICKET buTTONS"
+},
+"9ABD9621-B180-4017-BF70-600E1C62963A" : {
+"name" : "icon\/24\/iconPosition\/Open"
+},
+"7254FCEF-FC7C-40B0-B641-988E838072A2" : {
+"name" : "Add ticket"
+},
+"5C07A9D5-0623-47B4-8630-963E1EB56844" : {
+"name" : "hIDDEN"
+}
+}
+},
+"E8D3DFCE-3B66-4558-B3DA-91324A4752BB" : {
+"name" : "Page 1",
+"artboards" : {
+"7B0AF52F-EC0E-47B0-BE6B-4D00B881BE3D" : {
+"name" : "Create Brief Position "
+},
+"FF51E82F-5819-42FD-837D-10C51247F4A5" : {
+"name" : "Create Brief Position-Grade "
+},
+"BA95AB84-FDF5-4B50-A19D-4DF7744B3EC6" : {
+"name" : "Create Brief Position-Grade  Copy"
+},
+"CD286DDE-9C6A-41C3-B7E8-F00F5168ED15" : {
+"name" : "Create Brief Position-Priority"
+},
+"7AF558DB-3781-4AF5-812D-EF3700AB2DFD" : {
+"name" : "Create Brief Position-In bench"
+}
+}
+}
+}
+}

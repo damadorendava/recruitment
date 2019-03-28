@@ -1,0 +1,631 @@
+{
+"layerStyles" : {
+"objects" : [
+{
+"do_objectID" : "DCCE6021-5C86-4E3F-BECD-E9EA7728DAC8",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 2,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0.28235294117647058,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.35686274509803922,
+"green" : 0.32941176470588229
+}
+}
+],
+"miterLimit" : 10,
+"borderOptions" : {
+"lineJoinStyle" : 1,
+"_class" : "borderOptions",
+"isEnabled" : false,
+"lineCapStyle" : 1,
+"dashPattern" : [
+
+]
+},
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.84699999999999998,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.84699999999999998,
+"green" : 0.84699999999999998
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "shapes\/LinesGray\/2px\/Center"
+},
+{
+"do_objectID" : "D67C956B-B7AA-4A63-A6E2-2B4814C5F398",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 2,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.8666666666666667,
+"green" : 0.5725490196078431
+}
+}
+],
+"miterLimit" : 10,
+"borderOptions" : {
+"lineJoinStyle" : 1,
+"_class" : "borderOptions",
+"isEnabled" : false,
+"lineCapStyle" : 1,
+"dashPattern" : [
+
+]
+},
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.84699999999999998,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.84699999999999998,
+"green" : 0.84699999999999998
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "shapes\/LinesSecondary\/2px\/Center"
+},
+{
+"do_objectID" : "29A835EF-3E9F-4E49-932E-26D239208F24",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"contextSettings" : {
+"opacity" : 0,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "shapes\/surface\/BoundingBox"
+},
+{
+"do_objectID" : "9449327B-A151-4CD8-843A-E3F9AAE457F2",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 2,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+}
+}
+],
+"miterLimit" : 10,
+"borderOptions" : {
+"lineJoinStyle" : 1,
+"_class" : "borderOptions",
+"isEnabled" : false,
+"lineCapStyle" : 1,
+"dashPattern" : [
+
+]
+},
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.84699999999999998,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.84699999999999998,
+"green" : 0.84699999999999998
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "shapes\/LinesBlack\/2px\/Center "
+},
+{
+"do_objectID" : "BADF889C-F635-4A87-804C-0A84795E0D37",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 3,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 5,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 18,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 6,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 10,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "shapes\/surface\/L3"
+},
+{
+"do_objectID" : "D7580937-1C3C-4C03-B5F3-9BEC9ED2EA9A",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 2,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0.8784313725490196,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.88235294117647056,
+"green" : 0.8784313725490196
+}
+}
+],
+"miterLimit" : 10,
+"borderOptions" : {
+"lineJoinStyle" : 1,
+"_class" : "borderOptions",
+"isEnabled" : false,
+"lineCapStyle" : 1,
+"dashPattern" : [
+
+]
+},
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.84699999999999998,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.84699999999999998,
+"green" : 0.84699999999999998
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "shapes\/LinesLightGray1\/2px\/Center"
+}
+],
+"_class" : "sharedStyleContainer"
+},
+"assets" : {
+"_class" : "assetCollection",
+"colorAssets" : [
+
+],
+"images" : [
+
+],
+"colors" : [
+
+],
+"gradientAssets" : [
+
+],
+"imageCollection" : {
+"images" : {
+
+},
+"_class" : "imageCollection"
+},
+"gradients" : [
+
+]
+},
+"pages" : [
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/E8D3DFCE-3B66-4558-B3DA-91324A4752BB"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/A861BF9D-95DA-48C8-933D-70ED0673ED30"
+}
+],
+"foreignSymbols" : [
+
+],
+"currentPageIndex" : 0,
+"_class" : "document",
+"foreignLayerStyles" : [
+
+],
+"colorSpace" : 0,
+"layerTextStyles" : {
+"objects" : [
+{
+"do_objectID" : "B0E7B363-EACE-407F-88E5-CEEFBAC9A864",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.28235294117647058,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.35686274509803922,
+"green" : 0.32941176470588229
+},
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 18,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 18
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/p\/pSmall\/Black\/Center"
+},
+{
+"do_objectID" : "448E6C88-D06A-4B03-8A3B-57CA36C6E631",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.28235294117647058,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.35686274509803922,
+"green" : 0.32941176470588229
+},
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 18,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 18
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/p\/pSmall\/Black\/Left"
+},
+{
+"do_objectID" : "5E30E37E-4A28-41C8-AD9E-19589405ED60",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Light",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.28235294117647058,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.35686274509803922,
+"green" : 0.32941176470588229
+},
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 18,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 18
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/p\/pSmall\/Black\/LeftLight"
+},
+{
+"do_objectID" : "310AE58D-AFF5-42E1-80B3-E260D430C727",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.8784313725490196,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.88235294117647056,
+"green" : 0.8784313725490196
+},
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 18,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 18
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/p\/pSmall\/Gray\/Right"
+},
+{
+"do_objectID" : "74361303-FCD0-4356-9165-C53952F3D835",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "RobotoCondensed-Bold",
+"size" : 24
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.28235294117647058,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.35686274509803922,
+"green" : 0.32941176470588229
+},
+"textStyleVerticalAlignmentKey" : 1,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 32,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 32
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/Black\/Left"
+}
+],
+"_class" : "sharedTextStyleContainer"
+},
+"layerSymbols" : {
+"objects" : [
+
+],
+"_class" : "symbolContainer"
+},
+"do_objectID" : "AA7BB0DC-A60B-4175-81AB-CDE89A5E93DC",
+"foreignTextStyles" : [
+
+],
+"userInfo" : {
+"com.invisionlabs.sync" : {
+"metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+}
+}
+}
